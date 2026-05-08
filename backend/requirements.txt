@@ -1,8 +1,0 @@
-fastapi[standard]
-uvicorn
-sqlalchemy
-pydantic
-pydantic-settings
-apscheduler
-pyjwt
-passlib[bcrypt]
